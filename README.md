@@ -16,7 +16,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saiganeshvarma/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:saiganesh.palla@gmail.com)
-[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=white)](https://app.netlify.com/teams/saiganeshvarma/sites?creator=me&visibility=public)
+
 
 ---
 
